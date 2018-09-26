@@ -18,13 +18,19 @@
 </head>
 
 <body><noscript>You need to enable JavaScript to run this app.</noscript>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126252205-1"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113457160-3"></script>
     <script>
+        window.dataLayer = window.dataLayer || [];
+
         function gtag() {
-            dataLayer.push(arguments)
+            dataLayer.push(arguments);
         }
-        window.dataLayer = window.dataLayer || [], gtag("js", new Date), gtag("config", "UA-126252205-1")
+        gtag('js', new Date());
+
+        gtag('config', 'UA-113457160-3');
     </script>
+
     <div id="root"></div>
     <script src="https://unpkg.com/scatter-js@2.1.0/dist/scatter.min.js"></script>
     <script type="text/javascript" src="static/js/runtime~main.846ef017.js"></script>
