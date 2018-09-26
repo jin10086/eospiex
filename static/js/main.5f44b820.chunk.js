@@ -4294,7 +4294,7 @@
                     document.title = "EOS PIXEL MASTER | Make money by creating art"
             }
         }), J.init({
-            loadPath: "/locales/{{lng}}/{{ns}}.json",
+            loadPath: "locales/{{lng}}/{{ns}}.json",
             fallbackLng: "en",
             ns: ["common", "warnings", "apiErrors"],
             debug: !1,
@@ -36748,8 +36748,8 @@
                 value: function (e) {
                     var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {};
                     this.services = e, this.options = i.defaults(t, this.options || {}, {
-                        loadPath: "/locales/{{lng}}/{{ns}}.json",
-                        addPath: "/locales/add/{{lng}}/{{ns}}",
+                        loadPath: "locales/{{lng}}/{{ns}}.json",
+                        addPath: "locales/add/{{lng}}/{{ns}}",
                         allowMultiLoading: !1,
                         parse: JSON.parse,
                         crossDomain: !1,
