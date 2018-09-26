@@ -16188,7 +16188,7 @@
                         }), i.a.createElement("div", {
                             className: "bottom-right"
                         }, i.a.createElement("a", {
-                            href: "https://t.me/playPixelMaster",
+                            href: "https://t.me/joinchat/GwrwAxCxLQjwr1uxLMo9yA",
                             target: "_blank"
                         }, i.a.createElement("img", {
                             src: v.a
@@ -21944,8 +21944,8 @@
                     }, "Contact us on Telegram! ", i.a.createElement("a", {
                         className: "link",
                         target: "_blank",
-                        href: "https://t.me/playPixelMaster"
-                    }, " https://t.me/playPixelMaster "), i.a.createElement("br", null), "View contracts: ", i.a.createElement("a", {
+                        href: "https://t.me/joinchat/GwrwAxCxLQjwr1uxLMo9yA"
+                    }, " https://t.me/joinchat/GwrwAxCxLQjwr1uxLMo9yA "), i.a.createElement("br", null), "View contracts: ", i.a.createElement("a", {
                         className: "link",
                         target: "_blank",
                         href: "https://github.com/eosasia/eospixels"
