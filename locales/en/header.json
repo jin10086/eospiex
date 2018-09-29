@@ -2,7 +2,8 @@
   "title": "EOS PIXEL MASTER",
   "menu": {
     "leaderboard": "Leaderboard",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "buySelltoken": "Buy and sell token"
   },
   "faq": {
     "title": "EOS PIXEL MASTER FAQ",

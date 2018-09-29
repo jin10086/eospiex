@@ -2,7 +2,9 @@
   "title": "EOS PIXEL MASTER",
   "menu": {
     "leaderboard": "排行榜",
-    "faq": "帮助"
+    "faq": "帮助",
+    "buySelltoken": "买卖Token"
+
   },
   "faq": {
     "title": "EOS PIXEL MASTER 常见问题解答",

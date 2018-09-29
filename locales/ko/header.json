@@ -2,7 +2,8 @@
   "title": "EOS PIXEL MASTER",
   "menu": {
     "leaderboard": "리더보드",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "buySelltoken":"구매 및 판매 Token"
   },
   "faq": {
     "title": "EOS PIXEL MASTER FAQ",
