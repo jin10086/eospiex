@@ -1945,7 +1945,7 @@
             PIXELS_PER_ACTION: Number("16"),
             PIXELS_PER_TRANSACTION: Number("32"),
             PIXELS_PER_ROW: Number("25"),
-            CACHED_PIXELS_API: "https://togetthere.cn/chain/get_table_rows",
+            CACHED_PIXELS_API: "https://cache.togetthere.cn/chain/get_table_rows",
             PRECISION_BASE: Number("1e16"),
             VERSION: "0.1.5"
         }
@@ -21890,7 +21890,7 @@
                         className: f()("iconfont icon-questioncircle", l.a.faqIcon)
                     }), i.a.createElement("a", {
                         className: "link",
-                        href:"https://docs.google.com/document/d/1w6-M4amc_tKUgQPTiLAXo9uiYEaaMH2zwgqak4bDnJ0/edit#heading=h.rr9q2y705uet",
+                        href:"https://shimo.im/docs/2OHVQluAsX8qiYHG",
                         target: "_blank",
                     }, t("menu.faq"))), i.a.createElement(B, {
                         contentRef: this.faqRef,
